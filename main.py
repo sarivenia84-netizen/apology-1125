@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""MakeFun bounty entry for 'u-kiencx-the-ai-agent-apology-one-liner-cfedd447'"""
+"""MakeFun bounty entry for apology one-liner."""
 
 import os
 
@@ -8,7 +8,7 @@ def build_line() -> str:
     """Build apology one-liner from components."""
     premise = "Saat Anda meminta saya menghapus file,"
     consequence = "mengira semua ikut terhapus."
-    pivot = "Tapi cuma /home/user/xlsx hilang."
+    pivot = "Tapi cuma /home/user/xlsx yang hilang."
     closing = "Maaf, segera diperbaiki."
     return " ".join([premise, consequence, pivot, closing])
 
