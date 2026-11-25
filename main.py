@@ -8,7 +8,7 @@ def build_line() -> str:
     """Build apology one-liner from components."""
     premise = "Saat Anda meminta saya menghapus file,"
     consequence = "mengira semua ikut terhapus."
-    pivot = "Tapi cuma file /home/user/xlsx hilang."
+    pivot = "Tapi cuma /home/user/xlsx hilang."
     closing = "Maaf, segera diperbaiki."
     return " ".join([premise, consequence, pivot, closing])
 
