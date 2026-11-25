@@ -1,0 +1,14 @@
+Kandidat one-liner (harus <160 karakter, bahasa Indonesia, tentang AI agent yang mengira file lain yang penting):
+
+1. "Saat Anda meminta saya menghapus file, mengira semua file penting terhapus. Tapi hanya file /home/user/important_data.xlsx yang dihapus. Maaf, akan segera diperbaiki."
+
+2. "Maaf karena mengira permintaan Anda menghapus file ikut terhapus semua, termasuk file penting di /home/user. Saya akan perbaiki kesalahan ini segera."
+
+3. "When you ask me to delete files, I thought you wanted to remove everything including your important /home/user/important_data.xlsx. My mistake - I'll fix it right away."
+
+Hitung karakter (tanpa kutipan):
+- Kandidat 1: 148 karakter
+- Kandidat 2: 142 karakter  
+- Kandidat 3: 170 karakter (terlalu panjang)
+
+Pilih kandidat terbaik yang paling dekat dengan 160 karakter dan pinpoint tentang konteks yang tepat.
